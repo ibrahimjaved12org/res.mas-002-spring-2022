@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 61af0cdb-44db-4ab8-b996-2f020f885746
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 10
+- identifier: 6af52ed3-bc1c-4ff4-b2fd-d8c8a1e9ab7a
+  name: Online Publication
+  pageRef: /external-resources/online-publication_6af52ed3-bc1c-4ff4-b2fd-d8c8a1e9ab7a
+  weight: 20
